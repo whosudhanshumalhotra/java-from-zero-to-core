@@ -216,11 +216,6 @@ For day-to-day tracking, use Git commits and checklists inside each module. This
 
 ```text
 java-from-zero-to-core/
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── workflows/
-├── scripts/
 ├── 01-java-fundamentals/
 ├── 02-arrays-and-strings/
 ├── 03-object-oriented-programming/
