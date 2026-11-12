@@ -47,7 +47,7 @@ The numbered modules form the main learning path. Supporting tracks reinforce th
 
 | # | Module | Core coverage | Status |
 |---|---|---|---|
-| 01 | [Java Fundamentals](01-java-fundamentals/README.md) | Setup, execution model, syntax, variables, types, operators, control flow, methods and recursion | Roadmap |
+| 01 | [Java Fundamentals](01-java-fundamentals/README.md) | Setup, execution model, syntax, variables, types, operators, control flow, methods and recursion | **In Progress** |
 | 02 | [Arrays and Strings](02-arrays-and-strings/README.md) | Arrays, 2D arrays, String, StringBuilder, searching and sorting | Roadmap |
 | 03 | [Object-Oriented Programming](03-object-oriented-programming/README.md) | Classes, objects, constructors, encapsulation, inheritance, polymorphism, abstraction and composition | Roadmap |
 | 04 | [Exception Handling](04-exception-handling/README.md) | Throwable hierarchy, checked/unchecked exceptions, propagation, custom exceptions and resource handling | Roadmap |
