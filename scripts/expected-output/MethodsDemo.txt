@@ -1,0 +1,2 @@
+Sum: 20
+Welcome, Java learner!

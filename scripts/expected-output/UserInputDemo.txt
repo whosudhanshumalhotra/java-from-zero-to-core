@@ -1,0 +1,2 @@
+Enter your name: Enter your age: Hello, Alex!
+Next year, you will be 22.

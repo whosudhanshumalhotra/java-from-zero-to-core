@@ -1,0 +1,5 @@
+Age: 21
+Height: 1.76
+Grade: A
+Learning Java: true
+Goal: Become a Java developer

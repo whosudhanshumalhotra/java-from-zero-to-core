@@ -1,0 +1,2 @@
+Widened value: 25.0
+Narrowed value: 19

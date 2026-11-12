@@ -1,0 +1,8 @@
+Addition: 13
+Subtraction: 7
+Multiplication: 30
+Integer division: 3
+Remainder: 1
+Is a greater than b? true
+Both positive? true
+Larger value: 10

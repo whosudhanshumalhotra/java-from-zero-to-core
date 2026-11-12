@@ -1,0 +1,12 @@
+for loop:
+1
+2
+3
+while loop:
+1
+2
+3
+do-while loop:
+1
+2
+3
