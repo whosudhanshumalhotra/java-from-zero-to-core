@@ -254,11 +254,7 @@ java-from-zero-to-core/
 - [Eclipse Temurin](https://adoptium.net/)
 - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 
-Use the language specification for precise language rules and API documentation for library contracts. Tutorials are useful for learning, but official documentation is the reference when behaviour needs verification.
 
-## Maintainer release checklist
-
-Before calling a public release complete, review [`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md). It separates checks completed in this package from the actions that must be performed on the live GitHub repository.
 
 ## Contributing and feedback
 
