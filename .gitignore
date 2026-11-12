@@ -1,0 +1,30 @@
+# Java build output
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# IDE metadata
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and local secrets
+*.log
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.swp
