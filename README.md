@@ -10,7 +10,6 @@ A structured, practical Java 21 learning path for complete beginners and aspirin
 [![Learning path](https://img.shields.io/badge/Path-Zero%20to%20Advanced-blue)](#curriculum)
 [![Focus](https://img.shields.io/badge/Focus-Learn%20%7C%20Practise%20%7C%20Build%20%7C%20Interview-success)](#how-to-study)
 
-> **Repository status:** The learning framework, Module 01 foundation, supporting tracks and automated example-compilation workflow are being developed. Modules marked **Roadmap** are outlines, not completed courses. The CI workflow will appear in the repository Actions tab after the changes are pushed to GitHub.
 
 ---
 
