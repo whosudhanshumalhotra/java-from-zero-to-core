@@ -266,9 +266,6 @@ Corrections, clearer explanations, additional examples and well-designed exercis
 
 When reporting an issue, include the module, topic, Java version, steps to reproduce and the observed versus expected behaviour.
 
-## License
-
-No license file is included yet. Until the repository owner chooses and adds a license, do not assume that others have permission to reuse, modify or redistribute the repository's contents. See [GitHub's licensing guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) before selecting one.
 
 ---
 
